@@ -132,6 +132,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ViewSetupAuditTrail</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>
